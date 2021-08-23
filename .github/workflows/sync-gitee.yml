@@ -23,4 +23,4 @@ jobs:
             # 注意替换为你的 GitHub 源仓库地址
             source-repo: "git@github.com:flee-lether/shortcut_badge_plugin.git"
             # 注意替换为你的 Gitee 目标仓库地址
-            destination-repo: "git@gitee.com:Flee.Lethe.net/flutter_shortcut_badge.git"
+            destination-repo: "git@gitee.com:endcandle/flutter_shortcut_badge.git"
